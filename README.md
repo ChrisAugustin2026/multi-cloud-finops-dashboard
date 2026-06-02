@@ -47,30 +47,4 @@ It also supports the **Optimize** phase by helping identify:
 
 ## Screenshots
 
-### Dashboard overview
-
-![Dashboard overview](screenshots/dashboard-overview.png)
-
-### Cloud spend breakdown
-
-![Cloud spend breakdown](screenshots/cloud-spend-breakdown.png)
-
-### AI spend analysis
-
-![AI spend analysis](screenshots/ai-spend-analysis.png)
-
-### Tagging governance
-
-![Tagging governance](screenshots/tagging-governance.png)
-
-## Repository contents
-
-```text
-screenshots/
-  Dashboard screenshots
-
-sample-data/
-  Fictional sample cloud cost data
-
-documentation/
-  Project notes and explanation
+Attcahed in Folder
